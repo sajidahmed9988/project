@@ -1,0 +1,107 @@
+
+<!doctype html>
+<html>
+<style>
+body
+{
+background-image:url('images/background.jpeg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+}
+</style>
+</body>	
+<head>
+		<title>COVID 19</title>
+
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		  
+	</head>
+
+	<body>
+		<center><h1><font color="black">COVID-19 (SARS-CoV-2)</font></h1></center>
+		<hr>
+		<div id="topOfPage">
+
+<center><img src="images/covid.png" align="center" height="400" width="1050"></img></center>
+		
+			<p><h3>COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2 and was discovered in December 2019 in Wuhan, China. It is very contagious and has quickly spread around the world.
+Most people with COVID-19 have mild symptoms, but some people become severely ill.Hundreds of thousands of people have died from COVID-19 in the United States.<h3></p>
+
+			<p><h3><ins>SYMPTOMS OF CORONA VIRUS:</ins> Common symptoms include headache, loss of smell and taste, nasal congestion and rhinorrhea, cough, muscle pain, sore throat, fever, diarrhea, and breathing difficulties. People with the same infection may have different symptoms, and their symptoms may change over time.</h3></p>
+			<iframe align = "right" width="420" height="200" src="images/video.mp4"></iframe>
+		</div>
+		<hr>
+		<p><h3>HUMAN CORONAVIRUS NAMES:</h3>
+
+			<ul>
+
+				<li><h4>SARS-CoV-2<h4></li>
+				<li><h4>SARS-CoV<h4></li>
+				<li><h4>MERS-CoV<h4></li>
+				<li><h4>HCoV-NL63<h4></li>
+				<li><h4>HCoV-229E<h4></li>
+				<li><h4>HCoV-OC43<h4></li>
+				<li><h4>HKU1<h4></li>
+
+			</ul>
+		</p>
+		<hr>
+		<center>
+			<ins><h1>CORONAVIRUS CASES</h1></ins>
+			<table border="1">
+				<thead>
+					<tr>
+						<th>COUNTRY</th>
+						<th>VACCINE</th>
+						<th>ACTIVE CASES</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+
+                                               
+						<td><h3>INDIA<h3></td>
+						<td><h3>Covidsheild/Covaxine<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/india/"><img src="images/india.png" height="100" width="100"></a></td>
+					</tr>
+					<tr>
+						<td><h3>UNITED KINGDOM<h3></td>
+						<td><h3>Pfizer/Moderna<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/uk/"><img src="images/uk.png" height="100" width="100"></a></td>
+					</tr>
+					<tr>
+						<td><h3>AUSTRALIA<h3></td>
+						<td><h3>Astrazeneca/Moderna<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/AUSTRALIA/"><img src="images/australia.png" height="100" width="100"></a></td>
+					</tr>
+					<tr>
+						<td><h3>NEWZEALAND<h3></td>
+						<td><h3>BioNTech/Pfizer<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/new-zealand/"><img src="images/newzealand.png" height="100" width="100"></a></td>
+					</tr>
+					<tr>
+						<td><h3>PAKISTAN<h3></td>
+						<td><h3>Sinovac/Sputnik<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/pakistan/"><img src="images/pakistan.png" height="100" width="100"></a></td>
+					</tr>
+					<tr>
+						<td><h3>CANADA<h3></td>
+						<td><h3>Janssen/Moderna<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/canada/"><img src="images/canada.png" height="100" width="100"></a></td>
+					</tr>
+					<tr>
+						<td><h3>ITALY<h3></td>
+						<td><h3>Oxford-AsterZeneca/Moderna<h3></td>
+						<td align="center"><a href="https://www.worldometers.info/coronavirus/country/ITALY/"><img src="images/italy.png" height="100" width="100"></a></td>					
+</tr>
+				</tbody>
+			</table>
+		</center>
+	<p><center><h2>THANK YOU<h2><strong></strong></p>
+<p>MUKESH KUMAR/2109035<strong></strong></center></p>
+		<p><a href="#topOfPage">Home</a></p>
+	</body>
+</html>
